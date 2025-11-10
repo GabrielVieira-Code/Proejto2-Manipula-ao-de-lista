@@ -1,7 +1,3 @@
-Claro! Aqui está o **README.md completo**, formatado e pronto para você copiar e colar direto no seu repositório GitHub 👇
-
----
-
 # 🧾 Projeto de Manipulação de Listas em Python
 
 ## 📘 Descrição
